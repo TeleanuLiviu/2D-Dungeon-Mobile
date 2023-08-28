@@ -1,0 +1,900 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.16f1 (4016570cf34f) revision 4200023'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'en' Physical Memory: 65462 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/40745/Desktop/GameDevHQ Course/DungeonEscape 2D Platformer Mobile
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61954
+Successfully changed project path to: C:/Users/40745/Desktop/GameDevHQ Course/DungeonEscape 2D Platformer Mobile
+C:/Users/40745/Desktop/GameDevHQ Course/DungeonEscape 2D Platformer Mobile
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [27156] Host "[IP] 192.168.1.135 [Port] 0 [Flags] 2 [Guid] 1199451070 [EditorId] 1199451070 [Version] 1048832 [Id] WindowsEditor(7,Liviu) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [27156] Host "[IP] 192.168.1.135 [Port] 0 [Flags] 2 [Guid] 1199451070 [EditorId] 1199451070 [Version] 1048832 [Id] WindowsEditor(7,Liviu) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 157.77 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.16f1 (4016570cf34f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/40745/Desktop/GameDevHQ Course/DungeonEscape 2D Platformer Mobile/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2487)
+    Vendor:   NVIDIA
+    VRAM:     12137 MB
+    Driver:   31.0.15.1694
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007562 seconds.
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 120.39 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.690 seconds
+Domain Reload Profiling:
+	ReloadAssembly (691ms)
+		BeginReloadAssembly (64ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (522ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (118ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (323ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (69ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (120ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (89ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007759 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 102.24 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1252ms)
+		BeginReloadAssembly (192ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (127ms)
+		EndReloadAssembly (978ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (241ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (543ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (102ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (277ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.31 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4672 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 69 unused Assets / (129.0 KB). Loaded Objects now: 5121.
+Memory consumption went from 175.3 MB to 175.2 MB.
+Total: 3.672600 ms (FindLiveObjects: 0.321400 ms CreateObjectMapping: 0.115300 ms MarkObjects: 3.141900 ms  DeleteObjects: 0.093100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 74468.910953 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(13d7cdfcd1f34e14788cb529ed1d9986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(13d7cdfcd1f34e14788cb529ed1d9986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3664efda33f3475c8506f123e836a6d7') in 0.008922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.391053 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets
+  artifactKey: Guid(06ba2c8ac35586c499a9be2e4ded2007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets using Guid(06ba2c8ac35586c499a9be2e4ded2007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1313ad9f368c9ad24fa458f1a1c7239') in 0.001432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.163435 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/_Scenes
+  artifactKey: Guid(724d927b9bdff3748b8c4607f1fafb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/_Scenes using Guid(724d927b9bdff3748b8c4607f1fafb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e341d2eba86b29415ca5db079ffd4a') in 0.001380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.612717 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game
+  artifactKey: Guid(ab842e67effc142498de3f6b5900d633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game using Guid(ab842e67effc142498de3f6b5900d633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '668a2f18ef78bcae5ce71742376bcd40') in 0.001404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 128.378717 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Dummy
+  artifactKey: Guid(4d01349a0fa9d5246ae10bd8098f1b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Dummy using Guid(4d01349a0fa9d5246ae10bd8098f1b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a961f0a9ddae5a4250c38aa2b7f3b4') in 0.001541 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.430335 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files
+  artifactKey: Guid(055a7b0a39b13f44db5082f1dc5c0029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files using Guid(055a7b0a39b13f44db5082f1dc5c0029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a8c2d025955f6b2351bceb7d1c8f013') in 0.001456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.454939 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(1a8d6ed32d6273f4995c0844676a2c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(1a8d6ed32d6273f4995c0844676a2c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57aba0852678d59a47b716bcc77fb1e') in 0.002077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.506009 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eedbf81e4349d141cba70fd18f202cf3') in 0.001350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 105.682457 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c23e514d24f6b65fe96946cd87fc526') in 0.001339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.509949 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(13d7cdfcd1f34e14788cb529ed1d9986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(13d7cdfcd1f34e14788cb529ed1d9986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5889146add89d1834bfff87768d3e66f') in 0.001060 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006087 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.886 seconds
+Domain Reload Profiling:
+	ReloadAssembly (887ms)
+		BeginReloadAssembly (106ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (709ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (175ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (384ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (62ms)
+				ProcessInitializeOnLoadAttributes (255ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4661 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (95.4 KB). Loaded Objects now: 5136.
+Memory consumption went from 174.6 MB to 174.5 MB.
+Total: 2.931100 ms (FindLiveObjects: 0.269600 ms CreateObjectMapping: 0.092100 ms MarkObjects: 2.532100 ms  DeleteObjects: 0.036700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 70.521539 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Idle.png
+  artifactKey: Guid(9c2a45de3e464a24d9a75e2b40229ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Idle.png using Guid(9c2a45de3e464a24d9a75e2b40229ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281fa0f89da40557e39004a0e049f25e') in 0.199583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.831277 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Jump.png
+  artifactKey: Guid(dccf6b89d7cadda4b91197ce028e6731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Jump.png using Guid(dccf6b89d7cadda4b91197ce028e6731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '092a9f9da27f0c89e0c9d68b8df2039d') in 0.114426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 71.595106 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Warrior_Run.png
+  artifactKey: Guid(79fdd73fbcab34d4f964d2d056648483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Warrior_Run.png using Guid(79fdd73fbcab34d4f964d2d056648483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55870afd05772c46ad912d37916d98dd') in 0.092125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.853314 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Warrior_Walk.png
+  artifactKey: Guid(1eb60d80f97a8c6409aaaa0c6cf45184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Warrior_Walk.png using Guid(1eb60d80f97a8c6409aaaa0c6cf45184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f6c045aab46e9eaa8b7f3012010727') in 0.055847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.392109 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Death.png
+  artifactKey: Guid(d85f185ac7ab67848afa2f2840170eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Death.png using Guid(d85f185ac7ab67848afa2f2840170eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a2071ca83d2dbb2285d41e2d40ca0a') in 0.133224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.467735 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Reg_Swing.png
+  artifactKey: Guid(b1cbafb73a1ddfe43878056aeb0b9a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Reg_Swing.png using Guid(b1cbafb73a1ddfe43878056aeb0b9a3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f1e1dde8e5004d24bbb01790dc04681') in 0.101497 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006554 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Domain Reload Profiling:
+	ReloadAssembly (901ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (716ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (179ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (378ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (29ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (237ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.13 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4661 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (95.3 KB). Loaded Objects now: 5187.
+Memory consumption went from 178.7 MB to 178.6 MB.
+Total: 3.275600 ms (FindLiveObjects: 0.285700 ms CreateObjectMapping: 0.095200 ms MarkObjects: 2.850100 ms  DeleteObjects: 0.043800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 343.571681 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Jump_Swing.png
+  artifactKey: Guid(6d434d821f7e3124db43b08a970fd6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Jump_Swing.png using Guid(6d434d821f7e3124db43b08a970fd6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c4523223ddfd8d53be7cc6955e8281') in 0.122495 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.316214 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Jump_Swing_Fire.png
+  artifactKey: Guid(31e144eb49a099e4696a418b7b2e7141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Jump_Swing_Fire.png using Guid(31e144eb49a099e4696a418b7b2e7141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b8c7db498dbd5842743c69d460679f') in 0.084452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.516538 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Fire_Swing.png
+  artifactKey: Guid(5335a233714d17a49b55cd154e50c52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player/Fire_Swing.png using Guid(5335a233714d17a49b55cd154e50c52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '209545f1ad573f85bdacefe350319f06') in 0.095964 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006054 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.877 seconds
+Domain Reload Profiling:
+	ReloadAssembly (878ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (704ms)
+			LoadAssemblies (69ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (177ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (373ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (240ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4661 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (95.3 KB). Loaded Objects now: 5384.
+Memory consumption went from 179.0 MB to 178.9 MB.
+Total: 4.027800 ms (FindLiveObjects: 0.356900 ms CreateObjectMapping: 0.207700 ms MarkObjects: 3.416200 ms  DeleteObjects: 0.045700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 165.892849 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Idle.png
+  artifactKey: Guid(4c9fd358712904642a0587d35e7c2e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Idle.png using Guid(4c9fd358712904642a0587d35e7c2e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '423cc928bfff6bb6177f0046753dfd65') in 0.199264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.333171 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Walk.png
+  artifactKey: Guid(e9c8bddb35fcf124f8a3237f3d152637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Walk.png using Guid(e9c8bddb35fcf124f8a3237f3d152637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7315934da918e2873e1c57b2ca87c3b') in 0.180196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.692794 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Death.png
+  artifactKey: Guid(0f4609685dffb4242b34b082e9261afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Death.png using Guid(0f4609685dffb4242b34b082e9261afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc27c5e3389fde0159a2520eae658961') in 0.183579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.739727 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Idle.png
+  artifactKey: Guid(4c9fd358712904642a0587d35e7c2e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Idle.png using Guid(4c9fd358712904642a0587d35e7c2e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aac12b0c32b68f0ad4cb6912844370b') in 0.175904 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.999515 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Idle.png
+  artifactKey: Guid(4c9fd358712904642a0587d35e7c2e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Idle.png using Guid(4c9fd358712904642a0587d35e7c2e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f3ab95ed2d3c57065561d5244295cf') in 0.154252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.929322 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Attack.png
+  artifactKey: Guid(60ff48c3287b6444c9b934f47d71604d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Attack.png using Guid(60ff48c3287b6444c9b934f47d71604d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b7d0d3f054c75d71c2c4582b1ce1862') in 0.194991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.298444 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Attack.png
+  artifactKey: Guid(60ff48c3287b6444c9b934f47d71604d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Attack.png using Guid(60ff48c3287b6444c9b934f47d71604d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '242fa4d4b596cca2f5aaac5b20ed6e85') in 0.178475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.473022 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Hit.png
+  artifactKey: Guid(509320b26443f2c46b6748cf13493c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Hit.png using Guid(509320b26443f2c46b6748cf13493c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf7a2894fbd3c65dfe2af213acf57ab') in 0.166714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.333652 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Death.png
+  artifactKey: Guid(0f4609685dffb4242b34b082e9261afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Death.png using Guid(0f4609685dffb4242b34b082e9261afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f222394ea9046eecaa6eeef1e69452') in 0.194814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.437828 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Walk.png
+  artifactKey: Guid(e9c8bddb35fcf124f8a3237f3d152637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Moss_Giant/Moss_Giant_Walk.png using Guid(e9c8bddb35fcf124f8a3237f3d152637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32dea99842ec0cbb68b644e532b32fd0') in 0.177146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.121197 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Spider/Spider_Idle.png
+  artifactKey: Guid(13e90ccfcfc516e4e9365c1288654cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Spider/Spider_Idle.png using Guid(13e90ccfcfc516e4e9365c1288654cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf106fd59aa52ef51d33cc0fd7fcaeec') in 0.101178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.212590 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Spider/Spider_Death.png
+  artifactKey: Guid(7adef92321797734b8da8e1b482305d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Spider/Spider_Death.png using Guid(7adef92321797734b8da8e1b482305d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '749d3c4bef3cee0b6254e20508313592') in 0.130272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.373694 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Spider/Spider_Attack.png
+  artifactKey: Guid(9f852db8946022d43925929976c94735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Spider/Spider_Attack.png using Guid(9f852db8946022d43925929976c94735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1232ba56f9167412a2e1ff3ca1de5e') in 0.099590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.385962 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Spider/Spider_Walk.png
+  artifactKey: Guid(41d8c242d00df014582da314313919fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Spider/Spider_Walk.png using Guid(41d8c242d00df014582da314313919fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3eb764016aec2cf231366e18d8362a') in 0.113161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.579729 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Effects/Acid.png
+  artifactKey: Guid(be13cb8cd1943a54fa3e6eabfa8b4f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Effects/Acid.png using Guid(be13cb8cd1943a54fa3e6eabfa8b4f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c02547e2bbbd7e31764fe49ac69c96') in 0.077485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.025054 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Attack.png
+  artifactKey: Guid(fc6e4a4927adabe4097bab892e32436d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Attack.png using Guid(fc6e4a4927adabe4097bab892e32436d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f218388b4b378545faee46068179ceb') in 0.119294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.743492 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Walk.png
+  artifactKey: Guid(edd15aa533a1a114192b7bb039137ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Walk.png using Guid(edd15aa533a1a114192b7bb039137ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff86dc51f7bcd42d2664013fe115c39') in 0.101475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.450400 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Walk.png
+  artifactKey: Guid(edd15aa533a1a114192b7bb039137ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Walk.png using Guid(edd15aa533a1a114192b7bb039137ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ae953b2698d82bcdda6730c88544f3') in 0.101313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.743176 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Attack.png
+  artifactKey: Guid(fc6e4a4927adabe4097bab892e32436d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Attack.png using Guid(fc6e4a4927adabe4097bab892e32436d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc746fee547595f44e1a6d2252abe4f') in 0.101447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.317179 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Idle.png
+  artifactKey: Guid(9e853a36b9820134886691d08cf24d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Idle.png using Guid(9e853a36b9820134886691d08cf24d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e6dce77782c169e9886079632a4e71a') in 0.098173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.293382 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Idle.png
+  artifactKey: Guid(9e853a36b9820134886691d08cf24d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Idle.png using Guid(9e853a36b9820134886691d08cf24d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7ef6b30cf742a27573d04a22296466') in 0.116916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.218890 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Idle.png
+  artifactKey: Guid(9e853a36b9820134886691d08cf24d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Idle.png using Guid(9e853a36b9820134886691d08cf24d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50341698c5328183de03ceebe806f0d7') in 0.120762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.232891 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Death.png
+  artifactKey: Guid(ecd1dfc1c7518064786563cc326649e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Death.png using Guid(ecd1dfc1c7518064786563cc326649e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7990c4afdb240cae81219b9fe008e2c0') in 0.167764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.773357 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Hit.png
+  artifactKey: Guid(bfa7a245c238ee24eb5bb5bd40eabe05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Skeleton/Skeleton_Hit.png using Guid(bfa7a245c238ee24eb5bb5bd40eabe05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a5c10f795bb8cb53c30e2e87914703') in 0.092726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.144905 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Spider/Spider_Walk.png
+  artifactKey: Guid(41d8c242d00df014582da314313919fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Spider/Spider_Walk.png using Guid(41d8c242d00df014582da314313919fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '651f3f6c58f890918c4295fefbf70112') in 0.111189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 115.770277 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant
+  artifactKey: Guid(88c9d6c4dfbc7274da700fad1ec3f9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant using Guid(88c9d6c4dfbc7274da700fad1ec3f9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1447462ff64f154419f74e08f45f28a') in 0.001431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.151416 seconds.
+  path: Assets/Prefabs/Diamond.prefab
+  artifactKey: Guid(aaf217cfc5689994a84bb4e735147425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Diamond.prefab using Guid(aaf217cfc5689994a84bb4e735147425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a9b081fa117f46406f34059d43ca23') in 0.011080 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.517440 seconds.
+  path: Assets/Prefabs/Diamond.prefab
+  artifactKey: Guid(aaf217cfc5689994a84bb4e735147425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Diamond.prefab using Guid(aaf217cfc5689994a84bb4e735147425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b02e6e6215777165abadd0bd9e0fb218') in 0.024113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.019052 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Effects/Diamond.png
+  artifactKey: Guid(4b9d515d354f03f46a61a6717c18c782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Effects/Diamond.png using Guid(4b9d515d354f03f46a61a6717c18c782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88c77fcceda5d38401082c9e7b4a91a3') in 0.084796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.244877 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Effects/Sword_Three_Particle.png
+  artifactKey: Guid(a06b610e33055354ca5a2720be5bd72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Effects/Sword_Three_Particle.png using Guid(a06b610e33055354ca5a2720be5bd72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ceb3a138c5c5a8cc934445ca093ed7') in 0.100334 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005896 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.906 seconds
+Domain Reload Profiling:
+	ReloadAssembly (907ms)
+		BeginReloadAssembly (101ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (732ms)
+			LoadAssemblies (67ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (194ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (371ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (27ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (239ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4661 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (95.3 KB). Loaded Objects now: 5434.
+Memory consumption went from 179.4 MB to 179.3 MB.
+Total: 3.373300 ms (FindLiveObjects: 0.464500 ms CreateObjectMapping: 0.115100 ms MarkObjects: 2.747600 ms  DeleteObjects: 0.045300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 98.549637 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Tiles
+  artifactKey: Guid(43185175a5da0754b9f6258848cf0f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Tiles using Guid(43185175a5da0754b9f6258848cf0f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e929730f996f88d9eff62a213802a5d') in 0.009435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.628115 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/HUD/Thumb_Button.png
+  artifactKey: Guid(0c4c3049c1175e04888933a80ecba769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/HUD/Thumb_Button.png using Guid(0c4c3049c1175e04888933a80ecba769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e500962620276207a124c6736cfb6304') in 0.042114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.918487 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Main_Menu/Start_Button.png
+  artifactKey: Guid(0afada757dba19a45906032788aa1af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Main_Menu/Start_Button.png using Guid(0afada757dba19a45906032788aa1af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6539e579767fc18010de8f445b1db2d2') in 0.007927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.334291 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Main_Menu/Symbol.png
+  artifactKey: Guid(9fce8ce2196758a44be4fe627c7b4850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Main_Menu/Symbol.png using Guid(9fce8ce2196758a44be4fe627c7b4850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2ec4a3fd21df51c38827e07f19c5ec') in 0.038677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.159373 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Box_01.png
+  artifactKey: Guid(f1093faeb09822846af787b1236612e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Box_01.png using Guid(f1093faeb09822846af787b1236612e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7525fae5d5a59e97191f1e94e67b845') in 0.017126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.230554 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Box_02.png
+  artifactKey: Guid(b10f9ecda3d4a894abc8af4ded420439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Box_02.png using Guid(b10f9ecda3d4a894abc8af4ded420439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a314e3a0d4e6069cc8c2e70b86c751') in 0.009438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.253820 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Box_Front.png
+  artifactKey: Guid(9b78747d8ab10bb498723fabd0e142c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Box_Front.png using Guid(9b78747d8ab10bb498723fabd0e142c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a796745c9841900fb9ed83abd7f8fae0') in 0.008383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.160054 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Button.png
+  artifactKey: Guid(edecc43dfcbcf604992844b996ceb76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Button.png using Guid(edecc43dfcbcf604992844b996ceb76d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c254055ae53423a87ed7c7b898eb3b') in 0.008325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.253132 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Selection.png
+  artifactKey: Guid(7782caf0da2663b44a2414e66075b01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Selection.png using Guid(7782caf0da2663b44a2414e66075b01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c126571a294c9488a75aa96b136493bd') in 0.010077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.265785 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/shop_keeper.jpg
+  artifactKey: Guid(9c3a07171bcf5b6468dd77870a815291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/shop_keeper.jpg using Guid(9c3a07171bcf5b6468dd77870a815291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f82097a7aa3e15eca49d64726534c9f') in 0.013604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.346151 seconds.
+  path: Assets/Input
+  artifactKey: Guid(5173a357bae314f45a8d2013d58e94e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Input using Guid(5173a357bae314f45a8d2013d58e94e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5efd6c036189e44cdeb023c749501d5') in 0.001322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.965834 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/HUD/Life_Bar.png
+  artifactKey: Guid(5b7e86cc9dc3ead45aaaa421639b7507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/HUD/Life_Bar.png using Guid(5b7e86cc9dc3ead45aaaa421639b7507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7f1bb1ce16ec22f965232123c6fa2a') in 0.021487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.147585 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/HUD/A_Button.png
+  artifactKey: Guid(42ce6876545a81b4f8cf6e9f92568aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/HUD/A_Button.png using Guid(42ce6876545a81b4f8cf6e9f92568aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab456db86ecdcfc09fa89885c8e1f4e') in 0.008532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.533319 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Materials
+  artifactKey: Guid(fb7b564986ee3ec408201d988cafe248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Merchant/Materials using Guid(fb7b564986ee3ec408201d988cafe248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b4a05475ba2ad07770b05826951a3f') in 0.001413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.341418 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player
+  artifactKey: Guid(e6f46b9aab63439488149f1b0a02eb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Characters/Player using Guid(e6f46b9aab63439488149f1b0a02eb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecb48374cd56b4b6359401cb65ddb12') in 0.001537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 266.183002 seconds.
+  path: Assets/GameDevHQ/FileBase/Plugin/Sprites/ad_challenges_3.png
+  artifactKey: Guid(91ce672c492656d4fa0b0665a59259a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Plugin/Sprites/ad_challenges_3.png using Guid(91ce672c492656d4fa0b0665a59259a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b908febab7d61cf0ecb789a056517eb') in 0.019865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Tiles/Environmental_Tiles/BlackCavern2/BlackCavern2.png
+  artifactKey: Guid(0632d5a0d858f4d05aadfec397ba93db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Tiles/Environmental_Tiles/BlackCavern2/BlackCavern2.png using Guid(0632d5a0d858f4d05aadfec397ba93db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc6afa3ad632a1116017a641bd65130') in 0.113569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Tiles/Environmental_Tiles/BlackCavern3/BlackCavern3.png
+  artifactKey: Guid(1474c258830fd4e72a61016dee3098f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/Tiles/Environmental_Tiles/BlackCavern3/BlackCavern3.png using Guid(1474c258830fd4e72a61016dee3098f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3218c97866c408835b10f392fbbbc2ab') in 0.105711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/GameDevHQ/FileBase/Plugin/Sprites/ad_workshopsummit_3.png
+  artifactKey: Guid(f48c63de5dcafa44db4c04133f785643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Plugin/Sprites/ad_workshopsummit_3.png using Guid(f48c63de5dcafa44db4c04133f785643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278c36c4ee9b5a8e972c9166c13802ec') in 0.013300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Dummy/Environment/Black_Cave/Black.png
+  artifactKey: Guid(7c4b506b7c548a54aaca54f1879db34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Dummy/Environment/Black_Cave/Black.png using Guid(7c4b506b7c548a54aaca54f1879db34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f0a6e5744707aa10a0553dd36ee762') in 0.012137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/HUD/B_Button.png
+  artifactKey: Guid(728f4136944521d478023ad67f0b6010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/HUD/B_Button.png using Guid(728f4136944521d478023ad67f0b6010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e66e81e997aa376cb1cfaa38c522c634') in 0.011516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Main_Menu/BG.png
+  artifactKey: Guid(f1583dc242d82d640b8b2705581d8bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameDevHQ/FileBase/Projects/Tutorials/Starter_Files/2D_Mobile_Adventure_Assets/Official_Game/Sprites/UI/Main_Menu/BG.png using Guid(f1583dc242d82d640b8b2705581d8bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118ffcfec7f0eed34feffa2205f36ee9') in 0.149570 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006751 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\40745\Desktop\GameDevHQ Course\DungeonEscape 2D Platformer Mobile\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Domain Reload Profiling:
+	ReloadAssembly (979ms)
+		BeginReloadAssembly (120ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (774ms)
+			LoadAssemblies (78ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (190ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (404ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (29ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (260ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.82 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4661 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (95.3 KB). Loaded Objects now: 5479.
+Memory consumption went from 179.5 MB to 179.4 MB.
+Total: 4.531300 ms (FindLiveObjects: 0.466600 ms CreateObjectMapping: 0.148000 ms MarkObjects: 3.875600 ms  DeleteObjects: 0.039900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
